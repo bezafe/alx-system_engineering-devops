@@ -1,2 +1,2 @@
 #!/bin/bash
-!:mime Holberton 0
+file --mime-type -m school.mgc *
