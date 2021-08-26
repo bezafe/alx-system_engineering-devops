@@ -1,1 +1,0 @@
-**Day One Of C, Hello World**
